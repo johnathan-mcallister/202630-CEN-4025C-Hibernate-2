@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit moduleName="202630-CEN-4025C-Hibernate-2" name="default" framework="JPA" ormUnit="202630-CEN-4025C-Hibernate-2:default" defaultDataSourceId="b3e61397-dca2-4453-bc8e-c3a0fd659c89" />
+    </persistence-units>
+  </component>
+</project>
